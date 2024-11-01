@@ -1,0 +1,10 @@
+/* Add this in your CSS file or global styles */
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
